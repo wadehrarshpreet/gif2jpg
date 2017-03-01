@@ -1,5 +1,5 @@
 {
-  "name": "image-convert",
+  "name": "jz-image-convert",
   "version": "0.1.324",
   "description": "convert image to different format like gif2jpg jpg2png also manage the quality & size",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wadehrarshpreet/image-convert.git"
+    "url": "git+https://github.com/jasonzissman/image-convert"
   },
   "keywords": [
     "gif2jpg",
@@ -18,9 +18,9 @@
   "author": "Arshpreet Wadehra",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wadehrarshpreet/image-convert/issues"
+    "url": "https://github.com/jasonzissman/image-convert/issues"
   },
-  "homepage": "https://github.com/wadehrarshpreet/image-convert#readme",
+  "homepage": "https://github.com/jasonzissman/image-convert#readme",
   "dependencies": {
     "file-api": "^0.10.4",
     "images": "^3.0.0",
